@@ -1,0 +1,7 @@
+C:\Users\Kodux\Desktop\MonkFN\C# Console Application (.NET Framework)\obj\Debug\Monk.csproj.AssemblyReference.cache
+C:\Users\Kodux\Desktop\MonkFN\C# Console Application (.NET Framework)\obj\Debug\Monk.csproj.CoreCompileInputs.cache
+C:\Users\Kodux\Desktop\MonkFN\C# Console Application (.NET Framework)\bin\Debug\Monk.exe.config
+C:\Users\Kodux\Desktop\MonkFN\C# Console Application (.NET Framework)\bin\Debug\Monk.exe
+C:\Users\Kodux\Desktop\MonkFN\C# Console Application (.NET Framework)\bin\Debug\Monk.pdb
+C:\Users\Kodux\Desktop\MonkFN\C# Console Application (.NET Framework)\obj\Debug\Monk.exe
+C:\Users\Kodux\Desktop\MonkFN\C# Console Application (.NET Framework)\obj\Debug\Monk.pdb
